@@ -1,4 +1,4 @@
-# Multi-Aspect Conditioning for Diffusion-Based Music Synthesis: Enhancing Realism and Control
+# Listening Tests for "Multi-Aspect Conditioning for Diffusion-Based Music Synthesis: Enhancing Realism and Control"
 [Project Page](https://benadar293.github.io/multi-aspect-conditioning) for our paper: Maman et al., "Multi-Aspect Conditioning for Diffusion-Based Music Synthesis: Enhancing Realism and Control", 2024
 
 ![alt text](static/images/overview.PNG "Overview")
